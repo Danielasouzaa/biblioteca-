@@ -1,0 +1,11 @@
+# Arquivos SQL temporários
+*.sql~
+
+# Arquivos de log do MySQL
+mysql-bin.*
+
+# Backup de dados
+*.bak
+
+# Arquivos de configuração de ambiente local
+.env
